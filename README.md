@@ -1,2 +1,5 @@
-# Evidencia Proyecto
-Código del Proyecto y sus fotos
+# The libraries we use are the following:
+OpenCV
+Numpy
+Matplotlib
+scikit-learn
